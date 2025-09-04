@@ -14,6 +14,10 @@
 
 - [The Article of Board Regulations AG](https://www.avoltaworld.com/sites/default/files/document/2025-05/Articles%20of%20Incorporation_Post-AGM%202025%20%28May%2014%2C%202025%29.pdf) (organi sociali)
 
+- [Organizzazione e struttura dufry 2016](https://www.avoltaworld.com/en/press_release/2015-10-28/dufry-group-announces-new-organizational-structure)
+
+
+
 
 # Parte I: introduzione (prime 2 slide)
 
@@ -83,8 +87,35 @@ restanti: altri azionisti
 	- Remuneration Committee (RC): Valuta e propone il sistema di remunerazione per il Board e il management, inclusi i piani incentivanti.
 	- Nomination Committee (NC): Si occupa della pianificazione delle successioni e raccomanda al Board i candidati per ricoprire le cariche 
 	  di Amministratore Delegato e di membro del Board stesso.
-	- ESG Committee (EC): Supervisiona la strategia, la performance e la comunicazione del Gruppo su tematiche ambientali, sociali e di governance (ESG). 
-### Struttura del gruppo (slide 5)
+	- ESG Committee (EC): Supervisiona la strategia, la performance e la comunicazione del Gruppo su tematiche ambientali, 
+    sociali e di governance (ESG). 
 
 ### Organigramma (slide 6)
+
+L'organigramma di Avolta ha probabilmente una struttura a matrice tridimensionale:
+Assemblea degli azionisti -> Consiglio di amministrazione -> CEO
+
+
+In entrambi i casi il CEO sta sopra: 
+
+- Struttura di linea (Geografia)
+    Abbiamo come vertice l'assemblea degli azionisti, Seguita da Consiglio di amministrazione, seguita da CEO, seguito da
+    - Presidente regionale Europa meridionale e Africa
+    - Europa settentrionale e UK
+    - Presidente regionale Asia e Pacifico 
+    - Presidente regionale America del nord
+    - Presidente regionale America latina
+- Struttura di colonna (Funzione)
+    Sempre come prima, sopra sta il CEO    
+    - Unità di ricerca e sviluppo
+    - Unità di marketing management
+    - Unità di risorse umane
+    - Unità di catena di rifornimento
+
+### Struttura del gruppo (slide 5)
+- World Duty Free Group, S.A.U.
+- HMSHost UK
+- Dufry Thomas Julie Korea Co. Ltd
+- CanariensisDufry
+- Hudson Group
 
