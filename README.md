@@ -37,18 +37,18 @@ Tra cui l'acquisizione di Brasif, il più grande operatore di negozi duty-free i
 
 ## Parte II: governance 
 ### Responsabilità sociale (slide 3)
-Obbiettivi raggiunti nel 2024:
-    - Esperienza di viaggio sostenibile
-        Approvvigionamento sostenibile: Avolta si impegna a 
-            Ampliare l'adozione di pratiche di approvvigionamento responsabile e aumentare l'acquisto di prodotti sostenibili e locali 
-    - Rispetto dell'ambiente
-        Avolta si impegna a limitare le emissioni e ridurre l'impatto nelle operazioni richieste dal funzionamento dell'azienda
-    - Inclusività 
-        60% di dipendenti donne, ambiente di lavoro sano con corsi formativi per dipendenti, e rispetto dei diritti umani
-    - Coinvolgimento di comunità locali
-        crea lavoro per 
-    - Nel 2024 ha donato 9.4 mln tra ONG in 44 paesi e 220 organizzazioni di carità
-### Azionariato (slide 3) 
+Obbiettivi raggiunti nel 2024:  
+    - Esperienza di viaggio sostenibile  
+        Approvvigionamento sostenibile: Avolta si impegna a   
+            Ampliare l'adozione di pratiche di approvvigionamento responsabile e aumentare l'acquisto di prodotti sostenibili e locali   
+    - Rispetto dell'ambiente  
+        Avolta si impegna a limitare le emissioni e ridurre l'impatto nelle operazioni richieste dal funzionamento dell'azienda  
+    - Inclusività   
+        60% di dipendenti donne, ambiente di lavoro sano con corsi formativi per dipendenti, e rispetto dei diritti umani  
+    - Coinvolgimento di comunità locali  
+        crea lavoro per   
+    - Nel 2024 ha donato 9.4 mln tra ONG in 44 paesi e 220 organizzazioni di carità  
+### Azionariato (slide 3)   
 
 Edizione: 22.77%
 Advent international corp 8.72%
